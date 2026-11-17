@@ -5,13 +5,13 @@
 <p align="center">
   <a href="https://leetcode.com/u/sayandip_jana/"><img src="https://img.shields.io/badge/LeetCode-sayandip__jana-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile"></a>
   <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Solutions_here-163-2EA44F?style=for-the-badge" alt="163 solutions">
+  <img src="https://img.shields.io/badge/Solutions_here-164-2EA44F?style=for-the-badge" alt="164 solutions">
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Easy-60-00B8A3?style=flat-square" alt="Easy">
   <img src="https://img.shields.io/badge/Medium-92-FFC01E?style=flat-square" alt="Medium">
-  <img src="https://img.shields.io/badge/Hard-11-FF375F?style=flat-square" alt="Hard">
+  <img src="https://img.shields.io/badge/Hard-12-FF375F?style=flat-square" alt="Hard">
 </p>
 
 ---
@@ -28,8 +28,9 @@ Every problem has its own folder holding the accepted solution and a `README.md`
 | # | Problem | Difficulty | Guide |
 |---|---------|------------|-------|
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | 🟢 Easy | [Read the guide](./2243-calculate-digit-sum-of-a-string) |
+| 2911 | [Minimum Changes to Make K Semi-palindromes](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/) | 🔴 Hard | [Read the guide](./2911-minimum-changes-to-make-k-semi-palindromes) |
 
-## 🗂️ All solutions (163)
+## 🗂️ All solutions (164)
 
 <details open>
 <summary>Sorted by problem number. Click to collapse.</summary>
@@ -168,6 +169,7 @@ Every problem has its own folder holding the accepted solution and a `README.md`
 | 2784 | [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/) | 🟢 Easy | [2892-check-if-array-is-good](./2892-check-if-array-is-good) |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | 🔴 Hard | [3153-apply-operations-on-array-to-maximize-sum-of-squares](./3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | 2904 | [Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | 🟡 Medium | [3150-shortest-and-lexicographically-smallest-beautiful-string](./3150-shortest-and-lexicographically-smallest-beautiful-string) |
+| 2911 | [Minimum Changes to Make K Semi-palindromes](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/) 📘 | 🔴 Hard | [2911-minimum-changes-to-make-k-semi-palindromes](./2911-minimum-changes-to-make-k-semi-palindromes) |
 | 2948 | [Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) | 🟡 Medium | [3219-make-lexicographically-smallest-array-by-swapping-elements](./3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | 🟡 Medium | [3225-length-of-longest-subarray-with-at-most-k-frequency](./3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | 🟢 Easy | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
